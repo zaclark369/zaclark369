@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Full Stack web developer leveraging engineering and finance background to build a more intuitive user experience on the web. Currently earning a certificate in full stack development from the University of Oregon. I have modern, newly developed skills in JavaScript, CSS, React.js, and responsive web design. My focus is to add to the amazing framework of the internet, and to help add code to make the world work faster, smoother, and more efficiently.
+
 <!--
 **zaclark369/zaclark369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
